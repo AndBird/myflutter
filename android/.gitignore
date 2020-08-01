@@ -1,0 +1,10 @@
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+
+#不忽略anroid目录下的配置文件
+#!*_android.iml
